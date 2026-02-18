@@ -22,5 +22,10 @@ When creating a feature, improvement, or fix:
 - Explain reasoning before making significant changes
 - Ask clarifying questions when requirements are ambiguous
 
-### Additional
-Never include "co-authored"
+### Commenting
+- Never include comments explaining what something does, the code should be self-explanatory enough to do so
+- Only include comments explaining why, if something is sufficiently complicated enough to warrant an explanation
+
+### Misc.
+- Never include "co-authored"
+
